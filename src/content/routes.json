@@ -7,7 +7,7 @@
             "path": "/",
             "segments": [],
             "file": "index.json",
-            "title": "Dr. Adrian Mitchell – Professor of Computer Science",
+            "title": "Dr. chu – Professor of Computer Science",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -18,7 +18,7 @@
                 "announcements"
             ],
             "file": "category__announcements.json",
-            "title": "Announcements – Dr. Adrian Mitchell",
+            "title": "Announcements – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -29,7 +29,7 @@
                 "talks"
             ],
             "file": "category__talks.json",
-            "title": "Talks – Dr. Adrian Mitchell",
+            "title": "Talks – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -39,7 +39,7 @@
                 "keynote-at-the-international-conference-on-learning-systems"
             ],
             "file": "keynote-at-the-international-conference-on-learning-systems.json",
-            "title": "Keynote at the International Conference on Learning Systems – Dr. Adrian Mitchell",
+            "title": "Keynote at the International Conference on Learning Systems – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -49,7 +49,7 @@
                 "new-phd-positions-open-for-fall-2027"
             ],
             "file": "new-phd-positions-open-for-fall-2027.json",
-            "title": "New PhD Positions Open for Fall 2027 – Dr. Adrian Mitchell",
+            "title": "New PhD Positions Open for Fall 2027 – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -59,7 +59,7 @@
                 "news"
             ],
             "file": "news.json",
-            "title": "News – Dr. Adrian Mitchell",
+            "title": "News – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -69,7 +69,7 @@
                 "our-paper-on-sparse-attention-accepted-at-neurips"
             ],
             "file": "our-paper-on-sparse-attention-accepted-at-neurips.json",
-            "title": "Our Paper on Sparse Attention Accepted at NeurIPS – Dr. Adrian Mitchell",
+            "title": "Our Paper on Sparse Attention Accepted at NeurIPS – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -80,7 +80,7 @@
                 "a-survey-on-deep-learning-for-natural-language-processing"
             ],
             "file": "publication__a-survey-on-deep-learning-for-natural-language-processing.json",
-            "title": "A Survey on Deep Learning for Natural Language Processing – Dr. Adrian Mitchell",
+            "title": "A Survey on Deep Learning for Natural Language Processing – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -91,7 +91,7 @@
                 "a-transformer-based-framework-for-multimodal-learning"
             ],
             "file": "publication__a-transformer-based-framework-for-multimodal-learning.json",
-            "title": "A Transformer-Based Framework for Multimodal Learning – Dr. Adrian Mitchell",
+            "title": "A Transformer-Based Framework for Multimodal Learning – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -102,7 +102,7 @@
                 "efficient-large-scale-language-model-training-with-sparse-attention"
             ],
             "file": "publication__efficient-large-scale-language-model-training-with-sparse-attention.json",
-            "title": "Efficient Large-Scale Language Model Training with Sparse Attention – Dr. Adrian Mitchell",
+            "title": "Efficient Large-Scale Language Model Training with Sparse Attention – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -113,7 +113,7 @@
                 "explainable-ai-for-healthcare-decision-support"
             ],
             "file": "publication__explainable-ai-for-healthcare-decision-support.json",
-            "title": "Explainable AI for Healthcare Decision Support – Dr. Adrian Mitchell",
+            "title": "Explainable AI for Healthcare Decision Support – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -124,7 +124,7 @@
                 "fairness-aware-feature-selection-for-public-sector-data"
             ],
             "file": "publication__fairness-aware-feature-selection-for-public-sector-data.json",
-            "title": "Fairness-Aware Feature Selection for Public Sector Data – Dr. Adrian Mitchell",
+            "title": "Fairness-Aware Feature Selection for Public Sector Data – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -135,7 +135,7 @@
                 "foundations-of-probabilistic-reasoning-for-intelligent-agents"
             ],
             "file": "publication__foundations-of-probabilistic-reasoning-for-intelligent-agents.json",
-            "title": "Foundations of Probabilistic Reasoning for Intelligent Agents – Dr. Adrian Mitchell",
+            "title": "Foundations of Probabilistic Reasoning for Intelligent Agents – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -146,7 +146,7 @@
                 "interpretable-ensembles-through-rule-distillation"
             ],
             "file": "publication__interpretable-ensembles-through-rule-distillation.json",
-            "title": "Interpretable Ensembles through Rule Distillation – Dr. Adrian Mitchell",
+            "title": "Interpretable Ensembles through Rule Distillation – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -157,7 +157,7 @@
                 "low-resource-machine-translation-via-cross-lingual-transfer"
             ],
             "file": "publication__low-resource-machine-translation-via-cross-lingual-transfer.json",
-            "title": "Low-Resource Machine Translation via Cross-Lingual Transfer – Dr. Adrian Mitchell",
+            "title": "Low-Resource Machine Translation via Cross-Lingual Transfer – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -168,7 +168,7 @@
                 "probabilistic-graph-models-for-student-performance-prediction"
             ],
             "file": "publication__probabilistic-graph-models-for-student-performance-prediction.json",
-            "title": "Probabilistic Graph Models for Student Performance Prediction – Dr. Adrian Mitchell",
+            "title": "Probabilistic Graph Models for Student Performance Prediction – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -179,7 +179,7 @@
                 "retrieval-augmented-reasoning-for-scientific-question-answering"
             ],
             "file": "publication__retrieval-augmented-reasoning-for-scientific-question-answering.json",
-            "title": "Retrieval-Augmented Reasoning for Scientific Question Answering – Dr. Adrian Mitchell",
+            "title": "Retrieval-Augmented Reasoning for Scientific Question Answering – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -189,7 +189,7 @@
                 "publications"
             ],
             "file": "publications.json",
-            "title": "Publications – Dr. Adrian Mitchell",
+            "title": "Publications – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -200,7 +200,7 @@
                 "ai"
             ],
             "file": "research__ai.json",
-            "title": "Artificial Intelligence – Dr. Adrian Mitchell",
+            "title": "Artificial Intelligence – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -211,7 +211,7 @@
                 "data-science"
             ],
             "file": "research__data-science.json",
-            "title": "Data Science – Dr. Adrian Mitchell",
+            "title": "Data Science – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -222,7 +222,7 @@
                 "ml"
             ],
             "file": "research__ml.json",
-            "title": "Machine Learning – Dr. Adrian Mitchell",
+            "title": "Machine Learning – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         },
@@ -233,7 +233,7 @@
                 "nlp"
             ],
             "file": "research__nlp.json",
-            "title": "Natural Language Processing – Dr. Adrian Mitchell",
+            "title": "Natural Language Processing – Dr. chu",
             "lang": "en-US",
             "dir": "ltr"
         }
