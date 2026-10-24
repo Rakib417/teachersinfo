@@ -1,0 +1,82 @@
+[
+    {
+        "id": 19,
+        "type": "course",
+        "slug": "courses-taught",
+        "path": "/course/courses-taught/",
+        "title": "Courses Taught",
+        "excerpt": "Artificial Intelligence, Machine Learning, Data Structures and Natural Language Processing.",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "icon": "book"
+        }
+    },
+    {
+        "id": 20,
+        "type": "course",
+        "slug": "graduate-supervision",
+        "path": "/course/graduate-supervision/",
+        "title": "Graduate Supervision",
+        "excerpt": "PhD and master’s research supervision, academic guidance and thesis mentoring.",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 1,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "icon": "cap"
+        }
+    },
+    {
+        "id": 21,
+        "type": "course",
+        "slug": "student-mentorship",
+        "path": "/course/student-mentorship/",
+        "title": "Student Mentorship",
+        "excerpt": "Research collaboration, academic writing, conference preparation and career support.",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 2,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "icon": "users"
+        }
+    },
+    {
+        "id": 22,
+        "type": "course",
+        "slug": "academic-workshops",
+        "path": "/course/academic-workshops/",
+        "title": "Academic Workshops",
+        "excerpt": "Applied AI, research methodology, technical writing and data science workshops.",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 3,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "icon": "pen"
+        }
+    }
+]

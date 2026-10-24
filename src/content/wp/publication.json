@@ -1,0 +1,367 @@
+[
+    {
+        "id": 4,
+        "type": "publication",
+        "slug": "a-transformer-based-framework-for-multimodal-learning",
+        "path": "/publication/a-transformer-based-framework-for-multimodal-learning/",
+        "title": "A Transformer-Based Framework for Multimodal Learning",
+        "excerpt": "We present a unified transformer architecture that jointly encodes text, images and tabular signals. By sharing a cross-modal attention backbone and introducing modality-specific adapters, the framework improves accuracy on five multimodal benchmarks while reducing parameter count by 38% compared to late-fusion baselines.",
+        "content": "\n<p class=\"wp-block-paragraph\">We present a unified transformer architecture that jointly encodes text, images and tabular signals. By sharing a cross-modal attention backbone and introducing modality-specific adapters, the framework improves accuracy on five multimodal benchmarks while reducing parameter count by 38% compared to late-fusion baselines.</p>\n",
+        "date": "2024-06-01T09:00:00+00:00",
+        "modified": "2024-06-01T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "research_area": [
+                {
+                    "id": 2,
+                    "name": "Artificial Intelligence",
+                    "slug": "ai"
+                },
+                {
+                    "id": 3,
+                    "name": "Machine Learning",
+                    "slug": "ml"
+                }
+            ]
+        },
+        "meta": {
+            "pub_authors": "A. Mitchell, R. Chen, S. Kumar",
+            "pub_featured": "1",
+            "pub_type": "Journal Article",
+            "pub_url": "https://doi.org/10.0000/demo.2024.181",
+            "pub_venue": "Journal of Artificial Intelligence Research",
+            "pub_year": "2024"
+        }
+    },
+    {
+        "id": 5,
+        "type": "publication",
+        "slug": "retrieval-augmented-reasoning-for-scientific-question-answering",
+        "path": "/publication/retrieval-augmented-reasoning-for-scientific-question-answering/",
+        "title": "Retrieval-Augmented Reasoning for Scientific Question Answering",
+        "excerpt": "Large language models often hallucinate when answering domain-specific scientific questions. We introduce a retrieval-augmented reasoning pipeline that grounds each reasoning step in cited passages, improving factual accuracy by 21 points on SciQA while producing verifiable evidence chains.",
+        "content": "\n<p class=\"wp-block-paragraph\">Large language models often hallucinate when answering domain-specific scientific questions. We introduce a retrieval-augmented reasoning pipeline that grounds each reasoning step in cited passages, improving factual accuracy by 21 points on SciQA while producing verifiable evidence chains.</p>\n",
+        "date": "2024-06-01T09:00:00+00:00",
+        "modified": "2024-06-01T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "research_area": [
+                {
+                    "id": 2,
+                    "name": "Artificial Intelligence",
+                    "slug": "ai"
+                },
+                {
+                    "id": 4,
+                    "name": "Natural Language Processing",
+                    "slug": "nlp"
+                }
+            ]
+        },
+        "meta": {
+            "pub_authors": "L. Wang, A. Mitchell",
+            "pub_featured": "1",
+            "pub_type": "Conference Paper",
+            "pub_url": "https://doi.org/10.0000/demo.2024.937",
+            "pub_venue": "Proceedings of ACL",
+            "pub_year": "2024"
+        }
+    },
+    {
+        "id": 6,
+        "type": "publication",
+        "slug": "efficient-large-scale-language-model-training-with-sparse-attention",
+        "path": "/publication/efficient-large-scale-language-model-training-with-sparse-attention/",
+        "title": "Efficient Large-Scale Language Model Training with Sparse Attention",
+        "excerpt": "We propose a block-sparse attention pattern that scales sub-quadratically with sequence length. Combined with a curriculum over context lengths, it trains 1.8× faster than dense attention on 64k-token documents with no loss in downstream quality.",
+        "content": "\n<p class=\"wp-block-paragraph\">We propose a block-sparse attention pattern that scales sub-quadratically with sequence length. Combined with a curriculum over context lengths, it trains 1.8× faster than dense attention on 64k-token documents with no loss in downstream quality.</p>\n",
+        "date": "2023-06-01T09:00:00+00:00",
+        "modified": "2023-06-01T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "research_area": [
+                {
+                    "id": 3,
+                    "name": "Machine Learning",
+                    "slug": "ml"
+                },
+                {
+                    "id": 4,
+                    "name": "Natural Language Processing",
+                    "slug": "nlp"
+                }
+            ]
+        },
+        "meta": {
+            "pub_authors": "A. Mitchell, L. Wang, M. Rahman",
+            "pub_featured": "1",
+            "pub_type": "Conference Paper",
+            "pub_url": "https://doi.org/10.0000/demo.2023.687",
+            "pub_venue": "Advances in Neural Information Processing Systems",
+            "pub_year": "2023"
+        }
+    },
+    {
+        "id": 7,
+        "type": "publication",
+        "slug": "fairness-aware-feature-selection-for-public-sector-data",
+        "path": "/publication/fairness-aware-feature-selection-for-public-sector-data/",
+        "title": "Fairness-Aware Feature Selection for Public Sector Data",
+        "excerpt": "Public-sector predictive models must balance accuracy with equitable outcomes. We formulate feature selection as a constrained optimisation problem that bounds disparate impact, and evaluate it on three government datasets with domain experts.",
+        "content": "\n<p class=\"wp-block-paragraph\">Public-sector predictive models must balance accuracy with equitable outcomes. We formulate feature selection as a constrained optimisation problem that bounds disparate impact, and evaluate it on three government datasets with domain experts.</p>\n",
+        "date": "2023-06-01T09:00:00+00:00",
+        "modified": "2023-06-01T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "research_area": [
+                {
+                    "id": 5,
+                    "name": "Data Science",
+                    "slug": "data-science"
+                },
+                {
+                    "id": 3,
+                    "name": "Machine Learning",
+                    "slug": "ml"
+                }
+            ]
+        },
+        "meta": {
+            "pub_authors": "T. Rivera, A. Mitchell, J. Okafor",
+            "pub_featured": "1",
+            "pub_type": "Journal Article",
+            "pub_url": "https://doi.org/10.0000/demo.2023.240",
+            "pub_venue": "Data Mining and Knowledge Discovery",
+            "pub_year": "2023"
+        }
+    },
+    {
+        "id": 8,
+        "type": "publication",
+        "slug": "explainable-ai-for-healthcare-decision-support",
+        "path": "/publication/explainable-ai-for-healthcare-decision-support/",
+        "title": "Explainable AI for Healthcare Decision Support",
+        "excerpt": "Clinicians are reluctant to adopt black-box models. We develop a case-based explanation method that surfaces similar historical patients alongside counterfactual feature changes, and show in a user study with 42 clinicians that it increases appropriate trust without reducing accuracy.",
+        "content": "\n<p class=\"wp-block-paragraph\">Clinicians are reluctant to adopt black-box models. We develop a case-based explanation method that surfaces similar historical patients alongside counterfactual feature changes, and show in a user study with 42 clinicians that it increases appropriate trust without reducing accuracy.</p>\n",
+        "date": "2022-06-01T09:00:00+00:00",
+        "modified": "2022-06-01T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "research_area": [
+                {
+                    "id": 2,
+                    "name": "Artificial Intelligence",
+                    "slug": "ai"
+                },
+                {
+                    "id": 5,
+                    "name": "Data Science",
+                    "slug": "data-science"
+                }
+            ]
+        },
+        "meta": {
+            "pub_authors": "A. Mitchell, T. Rivera",
+            "pub_featured": "1",
+            "pub_type": "Journal Article",
+            "pub_url": "https://doi.org/10.0000/demo.2022.756",
+            "pub_venue": "IEEE Transactions on Knowledge and Data Engineering",
+            "pub_year": "2022"
+        }
+    },
+    {
+        "id": 9,
+        "type": "publication",
+        "slug": "a-survey-on-deep-learning-for-natural-language-processing",
+        "path": "/publication/a-survey-on-deep-learning-for-natural-language-processing/",
+        "title": "A Survey on Deep Learning for Natural Language Processing",
+        "excerpt": "This survey reviews a decade of deep learning methods for NLP — from word embeddings and recurrent networks to pre-trained transformers — and organises open challenges around robustness, efficiency and evaluation.",
+        "content": "\n<p class=\"wp-block-paragraph\">This survey reviews a decade of deep learning methods for NLP — from word embeddings and recurrent networks to pre-trained transformers — and organises open challenges around robustness, efficiency and evaluation.</p>\n",
+        "date": "2021-06-01T09:00:00+00:00",
+        "modified": "2021-06-01T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "research_area": [
+                {
+                    "id": 4,
+                    "name": "Natural Language Processing",
+                    "slug": "nlp"
+                }
+            ]
+        },
+        "meta": {
+            "pub_authors": "A. Mitchell, P. Das, K. Nguyen",
+            "pub_featured": "1",
+            "pub_type": "Survey",
+            "pub_url": "https://doi.org/10.0000/demo.2021.469",
+            "pub_venue": "ACM Computing Surveys",
+            "pub_year": "2021"
+        }
+    },
+    {
+        "id": 10,
+        "type": "publication",
+        "slug": "probabilistic-graph-models-for-student-performance-prediction",
+        "path": "/publication/probabilistic-graph-models-for-student-performance-prediction/",
+        "title": "Probabilistic Graph Models for Student Performance Prediction",
+        "excerpt": "We model course prerequisite structures as probabilistic graphs to forecast student outcomes early in a term, enabling targeted interventions. The approach outperforms gradient-boosted baselines on data from 11,000 students.",
+        "content": "\n<p class=\"wp-block-paragraph\">We model course prerequisite structures as probabilistic graphs to forecast student outcomes early in a term, enabling targeted interventions. The approach outperforms gradient-boosted baselines on data from 11,000 students.</p>\n",
+        "date": "2020-06-01T09:00:00+00:00",
+        "modified": "2020-06-01T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "research_area": [
+                {
+                    "id": 5,
+                    "name": "Data Science",
+                    "slug": "data-science"
+                },
+                {
+                    "id": 3,
+                    "name": "Machine Learning",
+                    "slug": "ml"
+                }
+            ]
+        },
+        "meta": {
+            "pub_authors": "S. Kumar, A. Mitchell",
+            "pub_featured": "",
+            "pub_type": "Conference Paper",
+            "pub_url": "https://doi.org/10.0000/demo.2020.114",
+            "pub_venue": "International Conference on Educational Data Mining",
+            "pub_year": "2020"
+        }
+    },
+    {
+        "id": 11,
+        "type": "publication",
+        "slug": "low-resource-machine-translation-via-cross-lingual-transfer",
+        "path": "/publication/low-resource-machine-translation-via-cross-lingual-transfer/",
+        "title": "Low-Resource Machine Translation via Cross-Lingual Transfer",
+        "excerpt": "We study transfer from high-resource language pairs to Bengali, Swahili and Nepali, showing that script-aware subword sharing yields consistent BLEU gains of 3–6 points over strong multilingual baselines.",
+        "content": "\n<p class=\"wp-block-paragraph\">We study transfer from high-resource language pairs to Bengali, Swahili and Nepali, showing that script-aware subword sharing yields consistent BLEU gains of 3–6 points over strong multilingual baselines.</p>\n",
+        "date": "2019-06-01T09:00:00+00:00",
+        "modified": "2019-06-01T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "research_area": [
+                {
+                    "id": 4,
+                    "name": "Natural Language Processing",
+                    "slug": "nlp"
+                }
+            ]
+        },
+        "meta": {
+            "pub_authors": "M. Rahman, A. Mitchell",
+            "pub_featured": "",
+            "pub_type": "Conference Paper",
+            "pub_url": "https://doi.org/10.0000/demo.2019.313",
+            "pub_venue": "Proceedings of EMNLP",
+            "pub_year": "2019"
+        }
+    },
+    {
+        "id": 12,
+        "type": "publication",
+        "slug": "interpretable-ensembles-through-rule-distillation",
+        "path": "/publication/interpretable-ensembles-through-rule-distillation/",
+        "title": "Interpretable Ensembles through Rule Distillation",
+        "excerpt": "We distil tree ensembles into compact rule lists that retain 97% of ensemble accuracy while remaining human-readable, and provide generalisation bounds for the distilled models.",
+        "content": "\n<p class=\"wp-block-paragraph\">We distil tree ensembles into compact rule lists that retain 97% of ensemble accuracy while remaining human-readable, and provide generalisation bounds for the distilled models.</p>\n",
+        "date": "2018-06-01T09:00:00+00:00",
+        "modified": "2018-06-01T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "research_area": [
+                {
+                    "id": 2,
+                    "name": "Artificial Intelligence",
+                    "slug": "ai"
+                },
+                {
+                    "id": 3,
+                    "name": "Machine Learning",
+                    "slug": "ml"
+                }
+            ]
+        },
+        "meta": {
+            "pub_authors": "A. Mitchell",
+            "pub_featured": "",
+            "pub_type": "Journal Article",
+            "pub_url": "https://doi.org/10.0000/demo.2018.897",
+            "pub_venue": "Machine Learning",
+            "pub_year": "2018"
+        }
+    },
+    {
+        "id": 13,
+        "type": "publication",
+        "slug": "foundations-of-probabilistic-reasoning-for-intelligent-agents",
+        "path": "/publication/foundations-of-probabilistic-reasoning-for-intelligent-agents/",
+        "title": "Foundations of Probabilistic Reasoning for Intelligent Agents",
+        "excerpt": "An introductory chapter covering Bayesian networks, approximate inference and decision making under uncertainty for intelligent agents.",
+        "content": "\n<p class=\"wp-block-paragraph\">An introductory chapter covering Bayesian networks, approximate inference and decision making under uncertainty for intelligent agents.</p>\n",
+        "date": "2015-06-01T09:00:00+00:00",
+        "modified": "2015-06-01T09:00:00+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "research_area": [
+                {
+                    "id": 2,
+                    "name": "Artificial Intelligence",
+                    "slug": "ai"
+                }
+            ]
+        },
+        "meta": {
+            "pub_authors": "A. Mitchell",
+            "pub_featured": "",
+            "pub_type": "Book Chapter",
+            "pub_url": "https://doi.org/10.0000/demo.2015.468",
+            "pub_venue": "Handbook of Intelligent Systems, Springer",
+            "pub_year": "2015"
+        }
+    }
+]

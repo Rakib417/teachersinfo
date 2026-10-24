@@ -1,0 +1,26 @@
+{
+  "name": "dr-adrian-mitchell",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Next.js site generated from WordPress by PressBake",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && node scripts/postbuild.mjs",
+    "preview": "npx --yes serve@14.2.4 out",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "24.19.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=20.9"
+  }
+}

@@ -1,0 +1,90 @@
+[
+    {
+        "id": 27,
+        "type": "post",
+        "slug": "keynote-at-the-international-conference-on-learning-systems",
+        "path": "/keynote-at-the-international-conference-on-learning-systems/",
+        "title": "Keynote at the International Conference on Learning Systems",
+        "excerpt": "I was honoured to deliver the opening keynote on trustworthy multimodal AI, sharing results from our lab’s latest work on grounding language models in evidence.",
+        "content": "\n<p class=\"wp-block-paragraph\">I was honoured to deliver the opening keynote on trustworthy multimodal AI, sharing results from our lab’s latest work on grounding language models in evidence.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Thank you to all collaborators, students and partners who made this possible. Feel free to get in touch if you would like to learn more or explore a collaboration.</p>\n",
+        "date": "2026-10-06T18:12:37+00:00",
+        "modified": "2026-10-06T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": {
+            "url": "/wp-content/uploads/2026/10/campus.jpg",
+            "width": 1400,
+            "height": 933,
+            "alt": ""
+        },
+        "terms": {
+            "category": [
+                {
+                    "id": 7,
+                    "name": "Talks",
+                    "slug": "talks"
+                }
+            ]
+        },
+        "meta": []
+    },
+    {
+        "id": 29,
+        "type": "post",
+        "slug": "new-phd-positions-open-for-fall-2027",
+        "path": "/new-phd-positions-open-for-fall-2027/",
+        "title": "New PhD Positions Open for Fall 2027",
+        "excerpt": "The Intelligent Systems Lab is recruiting two fully funded PhD students to work on retrieval-augmented reasoning and fair machine learning. Applications close on 15 January.",
+        "content": "\n<p class=\"wp-block-paragraph\">The Intelligent Systems Lab is recruiting two fully funded PhD students to work on retrieval-augmented reasoning and fair machine learning. Applications close on 15 January.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Thank you to all collaborators, students and partners who made this possible. Feel free to get in touch if you would like to learn more or explore a collaboration.</p>\n",
+        "date": "2026-09-18T18:12:37+00:00",
+        "modified": "2026-09-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": {
+            "url": "/wp-content/uploads/2026/10/about.jpg",
+            "width": 950,
+            "height": 633,
+            "alt": ""
+        },
+        "terms": {
+            "category": [
+                {
+                    "id": 6,
+                    "name": "Announcements",
+                    "slug": "announcements"
+                }
+            ]
+        },
+        "meta": []
+    },
+    {
+        "id": 31,
+        "type": "post",
+        "slug": "our-paper-on-sparse-attention-accepted-at-neurips",
+        "path": "/our-paper-on-sparse-attention-accepted-at-neurips/",
+        "title": "Our Paper on Sparse Attention Accepted at NeurIPS",
+        "excerpt": "Congratulations to Lin Wang and Mahmud Rahman — our work on efficient long-context training has been accepted for an oral presentation.",
+        "content": "\n<p class=\"wp-block-paragraph\">Congratulations to Lin Wang and Mahmud Rahman — our work on efficient long-context training has been accepted for an oral presentation.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Thank you to all collaborators, students and partners who made this possible. Feel free to get in touch if you would like to learn more or explore a collaboration.</p>\n",
+        "date": "2026-08-19T18:12:37+00:00",
+        "modified": "2026-08-19T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": {
+            "category": [
+                {
+                    "id": 6,
+                    "name": "Announcements",
+                    "slug": "announcements"
+                }
+            ]
+        },
+        "meta": []
+    }
+]

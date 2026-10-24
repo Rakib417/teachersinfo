@@ -1,0 +1,38 @@
+[
+    {
+        "id": 32,
+        "type": "page",
+        "slug": "home",
+        "path": "/",
+        "title": "Home",
+        "excerpt": "",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": []
+    },
+    {
+        "id": 33,
+        "type": "page",
+        "slug": "news",
+        "path": "/news/",
+        "title": "News",
+        "excerpt": "",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": []
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "id": 23,
+        "type": "award",
+        "slug": "outstanding-research-award",
+        "path": "/award/outstanding-research-award/",
+        "title": "Outstanding Research Award",
+        "excerpt": "",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "award_org": "Northbridge University",
+            "award_year": "2024",
+            "icon": "trophy"
+        }
+    },
+    {
+        "id": 24,
+        "type": "award",
+        "slug": "best-paper-award",
+        "path": "/award/best-paper-award/",
+        "title": "Best Paper Award",
+        "excerpt": "",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 1,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "award_org": "International AI Conference",
+            "award_year": "2022",
+            "icon": "file"
+        }
+    },
+    {
+        "id": 25,
+        "type": "award",
+        "slug": "excellence-in-teaching",
+        "path": "/award/excellence-in-teaching/",
+        "title": "Excellence in Teaching",
+        "excerpt": "",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 2,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "award_org": "Northbridge University",
+            "award_year": "2020",
+            "icon": "star"
+        }
+    },
+    {
+        "id": 26,
+        "type": "award",
+        "slug": "national-research-grant",
+        "path": "/award/national-research-grant/",
+        "title": "National Research Grant",
+        "excerpt": "",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 3,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "award_org": "Academic Science Foundation",
+            "award_year": "2019",
+            "icon": "landmark"
+        }
+    }
+]

@@ -1,0 +1,241 @@
+{
+    "defaultLang": "en-US",
+    "defaultDir": "ltr",
+    "notFound": "_404.json",
+    "routes": [
+        {
+            "path": "/",
+            "segments": [],
+            "file": "index.json",
+            "title": "Dr. Adrian Mitchell – Professor of Computer Science",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/category/announcements/",
+            "segments": [
+                "category",
+                "announcements"
+            ],
+            "file": "category__announcements.json",
+            "title": "Announcements – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/category/talks/",
+            "segments": [
+                "category",
+                "talks"
+            ],
+            "file": "category__talks.json",
+            "title": "Talks – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/keynote-at-the-international-conference-on-learning-systems/",
+            "segments": [
+                "keynote-at-the-international-conference-on-learning-systems"
+            ],
+            "file": "keynote-at-the-international-conference-on-learning-systems.json",
+            "title": "Keynote at the International Conference on Learning Systems – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/new-phd-positions-open-for-fall-2027/",
+            "segments": [
+                "new-phd-positions-open-for-fall-2027"
+            ],
+            "file": "new-phd-positions-open-for-fall-2027.json",
+            "title": "New PhD Positions Open for Fall 2027 – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/news/",
+            "segments": [
+                "news"
+            ],
+            "file": "news.json",
+            "title": "News – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/our-paper-on-sparse-attention-accepted-at-neurips/",
+            "segments": [
+                "our-paper-on-sparse-attention-accepted-at-neurips"
+            ],
+            "file": "our-paper-on-sparse-attention-accepted-at-neurips.json",
+            "title": "Our Paper on Sparse Attention Accepted at NeurIPS – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/publication/a-survey-on-deep-learning-for-natural-language-processing/",
+            "segments": [
+                "publication",
+                "a-survey-on-deep-learning-for-natural-language-processing"
+            ],
+            "file": "publication__a-survey-on-deep-learning-for-natural-language-processing.json",
+            "title": "A Survey on Deep Learning for Natural Language Processing – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/publication/a-transformer-based-framework-for-multimodal-learning/",
+            "segments": [
+                "publication",
+                "a-transformer-based-framework-for-multimodal-learning"
+            ],
+            "file": "publication__a-transformer-based-framework-for-multimodal-learning.json",
+            "title": "A Transformer-Based Framework for Multimodal Learning – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/publication/efficient-large-scale-language-model-training-with-sparse-attention/",
+            "segments": [
+                "publication",
+                "efficient-large-scale-language-model-training-with-sparse-attention"
+            ],
+            "file": "publication__efficient-large-scale-language-model-training-with-sparse-attention.json",
+            "title": "Efficient Large-Scale Language Model Training with Sparse Attention – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/publication/explainable-ai-for-healthcare-decision-support/",
+            "segments": [
+                "publication",
+                "explainable-ai-for-healthcare-decision-support"
+            ],
+            "file": "publication__explainable-ai-for-healthcare-decision-support.json",
+            "title": "Explainable AI for Healthcare Decision Support – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/publication/fairness-aware-feature-selection-for-public-sector-data/",
+            "segments": [
+                "publication",
+                "fairness-aware-feature-selection-for-public-sector-data"
+            ],
+            "file": "publication__fairness-aware-feature-selection-for-public-sector-data.json",
+            "title": "Fairness-Aware Feature Selection for Public Sector Data – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/publication/foundations-of-probabilistic-reasoning-for-intelligent-agents/",
+            "segments": [
+                "publication",
+                "foundations-of-probabilistic-reasoning-for-intelligent-agents"
+            ],
+            "file": "publication__foundations-of-probabilistic-reasoning-for-intelligent-agents.json",
+            "title": "Foundations of Probabilistic Reasoning for Intelligent Agents – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/publication/interpretable-ensembles-through-rule-distillation/",
+            "segments": [
+                "publication",
+                "interpretable-ensembles-through-rule-distillation"
+            ],
+            "file": "publication__interpretable-ensembles-through-rule-distillation.json",
+            "title": "Interpretable Ensembles through Rule Distillation – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/publication/low-resource-machine-translation-via-cross-lingual-transfer/",
+            "segments": [
+                "publication",
+                "low-resource-machine-translation-via-cross-lingual-transfer"
+            ],
+            "file": "publication__low-resource-machine-translation-via-cross-lingual-transfer.json",
+            "title": "Low-Resource Machine Translation via Cross-Lingual Transfer – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/publication/probabilistic-graph-models-for-student-performance-prediction/",
+            "segments": [
+                "publication",
+                "probabilistic-graph-models-for-student-performance-prediction"
+            ],
+            "file": "publication__probabilistic-graph-models-for-student-performance-prediction.json",
+            "title": "Probabilistic Graph Models for Student Performance Prediction – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/publication/retrieval-augmented-reasoning-for-scientific-question-answering/",
+            "segments": [
+                "publication",
+                "retrieval-augmented-reasoning-for-scientific-question-answering"
+            ],
+            "file": "publication__retrieval-augmented-reasoning-for-scientific-question-answering.json",
+            "title": "Retrieval-Augmented Reasoning for Scientific Question Answering – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/publications/",
+            "segments": [
+                "publications"
+            ],
+            "file": "publications.json",
+            "title": "Publications – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/research/ai/",
+            "segments": [
+                "research",
+                "ai"
+            ],
+            "file": "research__ai.json",
+            "title": "Artificial Intelligence – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/research/data-science/",
+            "segments": [
+                "research",
+                "data-science"
+            ],
+            "file": "research__data-science.json",
+            "title": "Data Science – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/research/ml/",
+            "segments": [
+                "research",
+                "ml"
+            ],
+            "file": "research__ml.json",
+            "title": "Machine Learning – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        },
+        {
+            "path": "/research/nlp/",
+            "segments": [
+                "research",
+                "nlp"
+            ],
+            "file": "research__nlp.json",
+            "title": "Natural Language Processing – Dr. Adrian Mitchell",
+            "lang": "en-US",
+            "dir": "ltr"
+        }
+    ]
+}

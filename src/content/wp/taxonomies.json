@@ -1,0 +1,63 @@
+{
+    "category": [
+        {
+            "id": 6,
+            "name": "Announcements",
+            "slug": "announcements",
+            "parent": 0,
+            "count": 2,
+            "path": "/category/announcements/"
+        },
+        {
+            "id": 7,
+            "name": "Talks",
+            "slug": "talks",
+            "parent": 0,
+            "count": 1,
+            "path": "/category/talks/"
+        },
+        {
+            "id": 1,
+            "name": "Uncategorized",
+            "slug": "uncategorized",
+            "parent": 0,
+            "count": 0,
+            "path": "/category/uncategorized/"
+        }
+    ],
+    "post_tag": [],
+    "research_area": [
+        {
+            "id": 2,
+            "name": "Artificial Intelligence",
+            "slug": "ai",
+            "parent": 0,
+            "count": 5,
+            "path": "/research/ai/"
+        },
+        {
+            "id": 5,
+            "name": "Data Science",
+            "slug": "data-science",
+            "parent": 0,
+            "count": 3,
+            "path": "/research/data-science/"
+        },
+        {
+            "id": 3,
+            "name": "Machine Learning",
+            "slug": "ml",
+            "parent": 0,
+            "count": 5,
+            "path": "/research/ml/"
+        },
+        {
+            "id": 4,
+            "name": "Natural Language Processing",
+            "slug": "nlp",
+            "parent": 0,
+            "count": 4,
+            "path": "/research/nlp/"
+        }
+    ]
+}

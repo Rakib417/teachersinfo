@@ -1,0 +1,107 @@
+[
+    {
+        "id": 14,
+        "type": "experience",
+        "slug": "professor-of-computer-science",
+        "path": "/experience/professor-of-computer-science/",
+        "title": "Professor of Computer Science",
+        "excerpt": "Leading the Intelligent Systems Lab, supervising PhD students and teaching advanced courses in AI and machine learning.",
+        "content": "",
+        "date": "2026-10-18T18:12:36+00:00",
+        "modified": "2026-10-18T18:12:36+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 0,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "exp_institution": "Northbridge University",
+            "exp_period": "2018 — Present"
+        }
+    },
+    {
+        "id": 15,
+        "type": "experience",
+        "slug": "associate-professor",
+        "path": "/experience/associate-professor/",
+        "title": "Associate Professor",
+        "excerpt": "Expanded the research programme into NLP and data science and published widely in leading journals and conferences.",
+        "content": "",
+        "date": "2026-10-18T18:12:36+00:00",
+        "modified": "2026-10-18T18:12:36+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 1,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "exp_institution": "Northbridge University",
+            "exp_period": "2012 — 2018"
+        }
+    },
+    {
+        "id": 16,
+        "type": "experience",
+        "slug": "assistant-professor",
+        "path": "/experience/assistant-professor/",
+        "title": "Assistant Professor",
+        "excerpt": "Established research foundations, secured first national grants and developed new undergraduate AI courses.",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 2,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "exp_institution": "Riverton State University",
+            "exp_period": "2008 — 2012"
+        }
+    },
+    {
+        "id": 17,
+        "type": "experience",
+        "slug": "postdoctoral-researcher",
+        "path": "/experience/postdoctoral-researcher/",
+        "title": "Postdoctoral Researcher",
+        "excerpt": "Worked on machine learning and probabilistic modelling for large-scale sensor data.",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 3,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "exp_institution": "Westbridge Institute of Technology",
+            "exp_period": "2006 — 2008"
+        }
+    },
+    {
+        "id": 18,
+        "type": "experience",
+        "slug": "phd-in-computer-science",
+        "path": "/experience/phd-in-computer-science/",
+        "title": "PhD in Computer Science",
+        "excerpt": "Thesis: “Learning Structured Representations under Uncertainty”.",
+        "content": "",
+        "date": "2026-10-18T18:12:37+00:00",
+        "modified": "2026-10-18T18:12:37+00:00",
+        "author": "",
+        "parent": 0,
+        "order": 4,
+        "template": "",
+        "featuredImage": null,
+        "terms": [],
+        "meta": {
+            "exp_institution": "Westbridge Institute of Technology",
+            "exp_period": "2002 — 2006"
+        }
+    }
+]
